@@ -1,0 +1,24 @@
+{
+  "name": "cypress-api-pairprog",
+  "version": "1.0.0",
+  "description": "Api testing repository using Cypress (Pair Programming)",
+  "main": "index.js",
+  "scripts": {
+    "cypress:run": "./node_modules/.bin/cypress run",
+    "cypress:open": "./node_modules/.bin/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Animazor/cypress-api-pairprog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Animazor/cypress-api-pairprog/issues"
+  },
+  "homepage": "https://github.com/Animazor/cypress-api-pairprog#readme",
+  "keywords": [],
+  "devDependencies": {
+    "cypress": "^7.3.0"
+  }
+}
